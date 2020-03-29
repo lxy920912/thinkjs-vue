@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "thinkjs-vue",
+    "script": "production.js",
+    "cwd": "/Users/xiaoyanli/Desktop/Sogou/thinkjs-vue",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
